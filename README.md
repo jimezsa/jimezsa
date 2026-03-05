@@ -12,6 +12,7 @@ My background is in hardware/software system-level design, and previously develo
 
 ## Projects
 
+- 🐙 **[OpenColab](https://github.com/jimezsa/opencolab)** - Accelerating scientific discovery - multi AI agent research lab
 - 🖼️ **[SuperResolutionSentinel_2](https://github.com/jimezsa/Super-Resolution-of-Sentinel-2-Low-Resolution)** - Super-resolution workflows for low-resolution Sentinel-2 satellite imagery
 - 🤖 **[DeepAssemblyLines](https://github.com/jimezsa/Deep_Assembly_Lines)** - 3D scene monitoring/reconstruction for industrial assembly applications
 - 🧑‍💻 **[jobcli](https://github.com/jimezsa/jobcli)** - Jobs in your terminal
