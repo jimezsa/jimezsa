@@ -6,7 +6,7 @@ My background is in hardware/software system-level design, and previously develo
 
 📍 **Munich**
 
-> Selfmotivated and embracing brain neuroplasticity
+> Selfmotivated.
 >
 > Experimenting a lot with Agentic Engineering and tools like Codex, Claude Code, Gemini CLI and Cursor.
 
